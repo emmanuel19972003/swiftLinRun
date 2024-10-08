@@ -1,0 +1,5 @@
+vertical_whitespace:
+  max_empty_lines: 0
+line_length:
+  warning: 120
+trailing_whitespace: error
